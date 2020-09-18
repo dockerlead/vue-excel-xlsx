@@ -1,6 +1,6 @@
 # vue-excel-xlsx
 
-Convert your data as an XLSX file
+Convert your data into *.xlsx file
 
 ## Getting started
 
@@ -78,3 +78,7 @@ Convert your data as an XLSX file
             }
         }
 ```
+
+## Status
+
+Forked from [t-chatoyan/vue-excel-xlsx](https://github.com/t-chatoyan/vue-excel-xlsx), but the repo didn't seem to be maintained, which is the reason this scoped and enhanced package is being published..

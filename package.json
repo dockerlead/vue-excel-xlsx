@@ -1,14 +1,14 @@
 {
-  "name": "vue-excel-xlsx",
-  "version": "1.0.11",
-  "description": "Export your data as an XLSX file",
+  "name": "@dockerlead/vue-excel-xlsx",
+  "version": "1.1.0",
+  "description": "Export your data as *.xlsx file",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t-chatoyan/vue-excel-xlsx"
+    "url": "git+https://github.com/dockerlead/vue-excel-xlsx"
   },
   "keywords": [
     "vue",
@@ -22,12 +22,12 @@
     "excel xlsx",
     "export"
   ],
-  "author": "Taron Chatoyan",
+  "author": "Taron Chatoyan, Ihsan Oeddin, DockerLead",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/t-chatoyan/vue-excel-xlsx/issues"
+    "url": "https://github.com/dockerlead/vue-excel-xlsx/issues"
   },
-  "homepage": "https://github.com/t-chatoyan/vue-excel-xlsx#readme",
+  "homepage": "https://github.com/dockerlead/vue-excel-xlsx#readme",
   "devDependencies": {
     "bili": "^4.8.0",
     "rollup-plugin-vue": "^5.0.0",
@@ -35,5 +35,8 @@
   },
   "dependencies": {
     "xlsx": "^0.14.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
