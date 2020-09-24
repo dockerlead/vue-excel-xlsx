@@ -1,6 +1,6 @@
 {
   "name": "@dockerlead/vue-excel-xlsx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Export your data as *.xlsx file",
   "main": "index.js",
   "scripts": {
